@@ -1,0 +1,80 @@
+{
+  "beaches": [
+    {
+      "id": 1,
+      "name": "Bora Bora, French Polynesia",
+      "country": "French Polynesia",
+      "imageUrl": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?w=800&q=80",
+      "description": "A small island in the South Pacific Ocean, Bora Bora is renowned for its turquoise lagoon, coral reefs, and overwater bungalows. The island's dramatic dormant volcano, Mount Otemanu, serves as a stunning backdrop to pristine white-sand beaches.",
+      "timeZone": "Pacific/Tahiti"
+    },
+    {
+      "id": 2,
+      "name": "Maldives",
+      "country": "Maldives",
+      "imageUrl": "https://images.unsplash.com/photo-1540202404-a2f29016b523?w=800&q=80",
+      "description": "An archipelago of 1,200 coral islands in the Indian Ocean, the Maldives offers crystal-clear waters, vibrant marine life, and luxury overwater villas. Its stunning sandbars and coral atolls make it one of the world's most sought-after beach destinations.",
+      "timeZone": "Indian/Maldives"
+    },
+    {
+      "id": 3,
+      "name": "Whitehaven Beach, Australia",
+      "country": "Australia",
+      "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80",
+      "description": "Located in the heart of the Great Barrier Reef, Whitehaven Beach is famous for its pure white silica sand and swirling blue-green waters. This 7km stretch of paradise is accessible only by boat, seaplane, or helicopter.",
+      "timeZone": "Australia/Brisbane"
+    }
+  ],
+  "temples": [
+    {
+      "id": 1,
+      "name": "Angkor Wat, Cambodia",
+      "country": "Cambodia",
+      "imageUrl": "https://images.unsplash.com/photo-1539650116574-75c0d3fcb3fa?w=800&q=80",
+      "description": "The world's largest religious monument, Angkor Wat was built in the 12th century by the Khmer Empire. This UNESCO World Heritage Site spans over 400 acres and features intricate bas-reliefs depicting Hindu mythology, surrounded by a vast moat.",
+      "timeZone": "Asia/Phnom_Penh"
+    },
+    {
+      "id": 2,
+      "name": "Senso-ji Temple, Japan",
+      "country": "Japan",
+      "imageUrl": "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?w=800&q=80",
+      "description": "Tokyo's oldest and most significant temple, Senso-ji was founded in 628 AD and dedicated to Kannon, the goddess of mercy. The iconic Kaminarimon (Thunder Gate) with its massive red lantern welcomes millions of visitors to this sacred Buddhist sanctuary.",
+      "timeZone": "Asia/Tokyo"
+    },
+    {
+      "id": 3,
+      "name": "Golden Temple, India",
+      "country": "India",
+      "imageUrl": "https://images.unsplash.com/photo-1570168007204-dfb528c6958f?w=800&q=80",
+      "description": "Also known as Sri Harmandir Sahib, the Golden Temple in Amritsar is the holiest shrine in Sikhism. Its stunning golden facade shimmers over the sacred Amrit Sarovar pool, creating a breathtaking reflection that draws pilgrims and tourists from across the globe.",
+      "timeZone": "Asia/Kolkata"
+    }
+  ],
+  "countries": [
+    {
+      "id": 1,
+      "name": "Sydney, Australia",
+      "country": "Australia",
+      "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80",
+      "description": "Australia's largest city is a vibrant metropolis known for its iconic Opera House, the Harbour Bridge, and world-class beaches like Bondi. Sydney blends cosmopolitan culture with stunning natural beauty, offering everything from world-class dining to breathtaking coastal walks.",
+      "timeZone": "Australia/Sydney"
+    },
+    {
+      "id": 2,
+      "name": "Tokyo, Japan",
+      "country": "Japan",
+      "imageUrl": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=800&q=80",
+      "description": "A city where ancient traditions meet futuristic technology, Tokyo is a sensory explosion of neon lights, cherry blossoms, and culinary wonders. From the serene Meiji Shrine to the electric Shibuya crossing, Japan's capital offers an unforgettable cultural journey.",
+      "timeZone": "Asia/Tokyo"
+    },
+    {
+      "id": 3,
+      "name": "Rio de Janeiro, Brazil",
+      "country": "Brazil",
+      "imageUrl": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?w=800&q=80",
+      "description": "Nestled between the Atlantic Ocean and lush mountains, Rio de Janeiro enchants visitors with its famous Carnival, the iconic Christ the Redeemer statue, and breathtaking beaches of Copacabana and Ipanema. The city's vibrant samba culture and warm hospitality are legendary.",
+      "timeZone": "America/Sao_Paulo"
+    }
+  ]
+}
